@@ -18,3 +18,5 @@
 ### https://www.sqliz.com/posts/java-basic-postgresql/
 
 ## Link to walkthrough
+
+https://drive.google.com/file/d/1ky8v-EEOBNhzAzS1A7dD0KKswBsefuPv/view
