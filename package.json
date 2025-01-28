@@ -1,0 +1,17 @@
+{
+    "name": "employee-management-system",
+    "version": "1.0.0",
+    "description": "A command-line application to manage a company's employee database",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "pg": "^8.11.3",
+      "inquirer": "^8.2.4",
+      "dotenv": "^16.0.3"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
